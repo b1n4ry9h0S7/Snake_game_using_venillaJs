@@ -1,0 +1,1 @@
+This a simple snake game using pure venillajs.
